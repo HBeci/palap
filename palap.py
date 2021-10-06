@@ -1,0 +1,5 @@
+vname = input('mi a vezeték neved?   ')
+kname = input('mi a kereszt neved?   ')
+age = int(input('hány éves vagy ?  '))
+ev = (2021 - age)
+print('Hello',vname,'',kname,'.''te ',ev,'-ben szülletél.')
